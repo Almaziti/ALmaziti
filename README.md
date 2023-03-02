@@ -14,3 +14,5 @@
 
 
 ## Follow Me 
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=26A8E8)](https://t.me/almaz_o)
+[![Vkontakte](https://img.shields.io/badge/-VK-090909?style=for-the-badge&logo=VK&logoColor=4C75A3)](https://vk.com/almaziti)
