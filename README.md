@@ -14,9 +14,9 @@
 
 ### Testing Documentation
 
-<li><a href="https://github.com/artichokeee/checklist">Checklists</a>
-<li><a href="https://github.com/artichokeee/checklist">Test-Case</a>
-<li><a href="https://github.com/artichokeee/checklist">Bug-Reports</a>
+<li><a href="https://drive.google.com/drive/folders/1aMmcyfPb4hzpl4RIuGcq72O3r3DbvGC9">Checklists</a>
+<li><a href="https://drive.google.com/drive/folders/1sB2mTpU5O75I4-OW_weegA4I0ugkvwze">Test-Case</a>
+<li><a href="https://drive.google.com/drive/folders/1CRyRyTnfeOJa1WEf-qpxo3dSC266knp8">Bug-Reports</a>
 
 
 ### Follow Me 
