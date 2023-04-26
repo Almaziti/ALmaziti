@@ -1,4 +1,4 @@
-[![Header](https://github.com/Almaziti/ALmaziti/blob/main/assets/1635829851_3-flomaster-club-p-brilliant-narisovannii-krasivii-risunok-3.jpg)](https://t.me/almaz_o)
+[![Header]
 
 ## I'm a begginer QA Engeneer
 
